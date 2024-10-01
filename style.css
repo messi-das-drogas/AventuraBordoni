@@ -1,0 +1,22 @@
+body{
+color: rgb(230, 90, 199);
+background: black;
+font-family: "Bangers", system-ui;
+font-size: 30px;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px
+}
+button
+{ color: rgb(235, 226, 102);
+    background: cornflowerblue;
+    font-size: 25px;
+
+}
+.passo{
+    display:none;
+}
+.passo.ativo{
+    display: block;
+}
